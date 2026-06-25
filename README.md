@@ -2,7 +2,7 @@
 
 This repository contains Python code for an agent-based model used in the paper:
 
-**"Determinants of Coal Dependence in Preindustrial Societies: An Agent-Based Model of the Fuelwood-to-Coal Transition"**
+**"Conditions for Coal Dependence in Preindustrial Societies: An Agent-Based Analysis of the Fuelwood-to-Coal Transition"**
 
 The model examines the conditions under which a transition from fuelwood to coal can emerge in preindustrial biomass societies.
 
