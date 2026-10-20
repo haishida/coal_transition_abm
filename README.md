@@ -72,6 +72,7 @@ This code is released under the MIT License.
 Hazuki Ishida
 Faculty of Economics, Doshisha University
 
+
 ## Simulation Data
 
 Aggregated simulation results supporting Figures 3–7 of the manuscript are available in the [`data/`](data/) directory.
