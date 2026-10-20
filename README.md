@@ -61,7 +61,7 @@ For a short test run:
 python run_baseline.py --steps 10
 ```
 
-The script generates a CSV file containing simulation results. Output files such as CSV files are not included in this repository.
+The script generates a CSV file containing simulation results. 
 
 ## License
 
@@ -71,3 +71,10 @@ This code is released under the MIT License.
 
 Hazuki Ishida
 Faculty of Economics, Doshisha University
+
+## Simulation Data
+
+Aggregated simulation results supporting Figures 3–7 of the manuscript are available in the [`data/`](data/) directory.
+The directory contains CSV and Excel files documenting the effects of fuel demand, forest convertibility, and coal extraction costs on simulated coal use and population dynamics.
+For details of the datasets, parameter definitions, and aggregation procedures, see [`data/README.md`](data/README.md).
+The complete raw simulation outputs are not included in this repository.
